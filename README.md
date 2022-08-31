@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **redux-toolkit**
 
-- 💬 Ask me about **react - gsap - nodejs**
+- 💬 Ask me about **react - Js - nodejs**
 
 - 📫 How to reach me **ayoubwazane306@gmail.com**
 
