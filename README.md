@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ayoubwazane306@gmail.com**
 
-- ⚡ Fun fact **I think am smart**
+- ⚡ Fun fact **I use my profile as my resume**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
