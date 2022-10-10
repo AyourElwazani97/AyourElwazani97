@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Wazane</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
-<p align="left"> <a href="https://twitter.com/ayoubdev1" target="blank"><img src="https://img.shields.io/twitter/follow/ayoubdev1?logo=twitter&style=for-the-badge" alt="ayoubdev1" /></a> </p>
-
 - 🌱 I’m currently learning **GROQ**
 
 - 💬 Ask me about **react - Js - nodejs**
