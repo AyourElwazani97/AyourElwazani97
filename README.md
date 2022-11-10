@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub Wazane</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
-- 🌱 I’m currently learning **GROQ**
+- 🌱 I’m currently learning **ThreeJs**
 
 - 💬 Ask me about **react - Js - nodejs**
 
